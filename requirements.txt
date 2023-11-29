@@ -17,4 +17,8 @@ sendgrid==6.5.0
 
 pytest
 
+
 flask
+
+#PRODUCTION SERVER NEEDS THIS TO RUN THE WEBAPP
+gunicorn
